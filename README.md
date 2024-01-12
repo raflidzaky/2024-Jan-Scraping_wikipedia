@@ -8,4 +8,4 @@ Repo to scrape wikipedia into a analysis-ready data set.
 **Requirements**
 All of the library used are stated in requirements.txt
 
-[colab]([https://github.com/ai/size-limit#readme](https://colab.research.google.com/drive/13by1By5Iph8ZKS_b8f1X5ADGYgimQhER?usp=sharing)https://colab.research.google.com/drive/13by1By5Iph8ZKS_b8f1X5ADGYgimQhER?usp=sharing) 
+[colab.com]([https://github.com/ai/size-limit#readme](https://colab.research.google.com/drive/13by1By5Iph8ZKS_b8f1X5ADGYgimQhER?usp=sharing)https://colab.research.google.com/drive/13by1By5Iph8ZKS_b8f1X5ADGYgimQhER?usp=sharing) 
